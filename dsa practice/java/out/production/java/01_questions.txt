@@ -1,0 +1,58 @@
+1.Easy Array Questions (25)
+2.Find the Largest Element in an Array
+3.Find the Second Largest Element in an Array
+4.Check if an Array is Sorted
+5.Remove Duplicates from Sorted Array
+6.Left Rotate an Array by One Place
+7.Left Rotate an Array by D Places
+8.Move Zeros to End of Array
+9.Find the Union of Two Sorted Arrays
+10.Find the Intersection of Two Sorted Arrays
+11.Find Missing Number in First N Natural Numbers (1 to N)
+12.Find the Single Non-Repeating Element (XOR method)
+13.Find the Maximum Consecutive 1s in Binary Array
+14.Count Frequency of Elements in an Unsorted Array
+15.Find Two Sum in an Array
+16.Find Subarray with Given Sum (Non-negative Numbers, Sliding Window)
+17.Check if Array Contains Duplicate Elements
+18.Find the Maximum Subarray Sum (Kadane’s Algorithm)
+19.Find the Length of the Longest Subarray with Sum K (Positive Numbers Only)
+20.Check if Array is a Palindrome
+21.Find the Equilibrium Index in an Array
+22.Find the Majority Element (> N/2 times, Boyer-Moore Algorithm)
+23.Find the Missing and Repeating Numbers in an Array (N Elements)
+24.Find Common Elements in Three Sorted Arrays
+25.Find the First and Last Occurrence of an Element in Sorted Array (Binary Search)
+26.Find Pairs in an Array whose Sum is Divisible by K
+27.Medium Array Questions (25)
+28.Sort an Array of 0s, 1s, and 2s (Dutch National Flag Algorithm)
+29.Find the Next Permutation of an Array
+30.Find the Maximum Product Subarray
+31.Rearrange Array Elements by Alternating Signs (Without Extra Space)
+32.Rearrange Array Elements in Increasing-Decreasing Order
+33.Find Leaders in an Array
+34.Find the Longest Subarray with Sum K (Handles Negative Numbers)
+35.Find the Longest Consecutive Sequence of Numbers in an Unsorted Array
+36.Find the Maximum Length Bitonic Subarray
+37.Find the Maximum Sum Circular Subarray
+38.Find the Minimum Number of Platforms Required (Train Schedule Problem)
+39.Find the Maximum Water Trapped (Trapping Rain Water Problem)
+40.Find the Maximum Profit from Stock Prices (Buy and Sell Stock - 1 Transaction Allowed)
+41.Find the Maximum Profit from Stock Prices (Multiple Transactions Allowed)
+42.Find the Maximum Profit from Stock Prices (At Most Two Transactions Allowed)
+43.Find the Minimum Number of Jumps to Reach End of Array
+44.Find the First Missing Positive Integer
+45.Find Subarray with Given XOR K
+46.Find the Median of Two Sorted Arrays of Different Sizes
+47.Find the Smallest Subarray with Sum Greater than X
+48.Find the Subarray with Maximum XOR Value
+49.Find the Smallest Missing Positive Number (Using Index as Hashing)
+50.Find the Kth Largest Element in an Array
+51.Find the Kth Smallest Element in an Array
+52.Implement Merge Intervals in an Array
+53.Next Steps for Practice
+54.Try solving these problems on LeetCode, CodeChef, GeeksforGeeks, or InterviewBit.
+55.Start with easy ones to build confidence and then move to medium problems.
+56.Use Sliding Window, Hashing, Two Pointers, Prefix Sum, and Kadane’s Algorithm for efficient solutions.
+57.Implement solutions in Java and analyze their time complexity.
+58.Let me know if you want explanations for any of these
